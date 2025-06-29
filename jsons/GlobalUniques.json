@@ -7,8 +7,6 @@
 
   "name": "TriggerFreeSettlerChoiceEvent",
   "uniques": [
-    "Triggers [FreeSettlerChoice] event <after turn number [1]> <if is human>"
+    "Triggers a [FreeSettlerChoice] event <after turn number [1]>"
 ]
 }
-
-
