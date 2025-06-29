@@ -2,5 +2,6 @@
     "name": "Global uniques",
     "uniques": [
         "Triggers a [New Era] event <upon entering a new era> <after turn number [5]>",
+        "Free [Settler] appears <if starting in the [Ancient era]> <if [Monument] is constructed>",
     ]
 }
