@@ -2,7 +2,7 @@
     "name": "Global uniques",
     "uniques": [
         "Triggers a [New Era] event <upon entering a new era> <after turn number [5]>",
-        "Triggers a [New Era] event <if starting in the [Era]>",
+        "Triggers a [New Era] event <if starting in the [Ancient Era]>",
     ]
     
 }
