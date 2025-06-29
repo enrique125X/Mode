@@ -37,7 +37,7 @@
 					"uniques": ["Gain an extra spy", "Only available <when espionage is enabled>"],
 				},
 				{"text":"libreria gratis",
-				"uniques":["Gain a free [Library] [all]"],
+				"uniques":["Gain a free [Library] [in foreign cities]"],
 				},
 								{"text":"hoplita gratis",
 				"uniques":["Free [Hoplite] appears"],
