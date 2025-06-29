@@ -1,0 +1,21 @@
+[
+{
+  "name": "FreeSettlerChoice",
+  "conditions": [
+    "after turn number [1]",
+    "is human"
+  ],
+  "choices": [
+    {
+      "name": "Sí, quiero un colono extra",
+      "uniques": [
+        "Free [Settler] appears"
+      ]
+    },
+    {
+      "name": "No, prefiero el reto",
+      "uniques": []
+    }
+  ]
+}
+]
