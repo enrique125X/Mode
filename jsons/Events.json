@@ -13,11 +13,17 @@
 					"uniques": ["[+1] population in a random city", "[+1] population in a random city"],
 				},
 				{
-					"text": "Gain Settler",
+					"text": "Gain Settler humanos",
 					"uniques": [
 					"Free [Settler] appears", "Only available <for [Human player] Civilizations>"
 					],
 				},       
+								{
+					"text": "Gain Settler IAs",
+					"uniques": [
+					"Free [Settler] appears", "Only available <for [AI player] Civilizations>"
+					],
+				},  
 				{
 					"text": "Gain Technology",
 					"uniques": ["Free Technology"],
