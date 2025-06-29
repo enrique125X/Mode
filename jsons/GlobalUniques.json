@@ -5,11 +5,6 @@
 //        "Triggers a [New Era] event <if starting in the [Ancient era]>",
 //la linea de arriba parece estorbar
     ]
-
-  "name": "TriggerFreeSettlerChoiceEvent",
-  "uniques": [
-    "Triggers a [FreeSettlerChoice] event <after turn number [1]>"
-]
 }
 
 
