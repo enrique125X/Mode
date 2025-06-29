@@ -5,7 +5,8 @@
         "choices": [
             {
                 "text": "Start Golden Age",
-                "uniques": ["Empire enters a [10]-turn Golden Age"],
+                "uniques": ["Empire enters a [10]-turn Golden Age","Free [Settler] appears <if starting in the [Ancient era]> <if [Monument] is constructed>",],
+                    
             },
             {
                 "text": "Gain Population",
