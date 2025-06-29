@@ -4,5 +4,11 @@
         "Triggers a [New Era] event <upon entering a new era> <after turn number [5]>",
         "Triggers a [New Era] event <if starting in the [Ancient era]>",
     ]
-    
+
+  "name": "TriggerFreeSettlerChoiceEvent",
+  "uniques": [
+    "Triggers [FreeSettlerChoice] event <after turn number [1]> <if is human>"
+]
 }
+
+
