@@ -1,7 +1,7 @@
 {
     "name": "Global uniques",
     "uniques": [
-        "Triggers a [New Era] event <upon entering a new era>",
+        "Triggers a [New Era] event <upon entering a new era><before turn number [100]>",
 //        "Triggers a [New Era] event <if starting in the [Ancient era]>",
 //la linea de arriba parece estorbar
     ]
